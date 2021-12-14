@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mateusz
 - 👀 I'm interested in a web development, I want to learn how to build web applications
-- 🌱 I’m currently learning web languages
 - 📫 How to reach me on email : xxxmatiixxxm@gmail.com
 - 💻 So far I've used: HTML5 CSS3 JAVASCRIPT PHP MySQL
 <!---
